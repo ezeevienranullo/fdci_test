@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity {
     private TextView tvDisplay;
 
     private String capital;
-    private Pattern pattern = Pattern.compile("-?\\d+(\\.\\d+)?");
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
