@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FDCI Test</string>
+    <string name="region">Region</string>
+    <string name="country">Country</string>
+    <string name="name">Name</string>
+    <string name="label_cancel">Cancel</string>
+
+
+    <!--    Error message-->
+    <string name="required_field">This field is required.</string>
+    <string name="return_404">Sorry, but the url might be deleted or incorrect,\nPlease contact the support team. </string>
+    <string name="return_408">Request Timeout,\nPlease contact the support team. </string>
+    <string name="internet_connection_problem"> Unable to Connect. Please check the internet connection.</string>
+    <string name="internet_required">Internet connection is required.</string>
+    <string name="error_name">Please input a valid name</string>
+    <string name="name_field">Name field is required</string>
+    <string name="region_field">Region field is required</string>
+    <string name="country_field">Country field is required</string>
+
+    <!--  Button-->
+    <string name="submit">Submit</string>
+
+</resources>
